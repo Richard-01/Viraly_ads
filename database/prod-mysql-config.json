@@ -1,0 +1,9 @@
+{
+  "host": "wallets-instance-1.clpbwwp7i3ym.us-east-1.rds.amazonaws.com",
+  "user": "viraly_user_production",
+  "password": "!ZunM2MPalEVL799*D77c!0vZc",
+  "database": "viraly",
+  "charset": "utf8mb4",
+  "connectTimeout": 10000,
+  "connectionLimit": 25
+}
